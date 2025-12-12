@@ -2,25 +2,25 @@
 
 <p align="center">
   <strong>Estudiante de Desarrollo de Aplicaciones Web (DAW)</strong><br>
-  Apasionado por la programación, el desarrollo web y la creación de proyectos útiles.  
+  Apasionado por la programaci&oacuten, el desarrollo web y la creaci&oacuten de proyectos &uacutetiles.  
 </p>
 
 <hr>
 
-<h2>🚀 Sobre mí</h2>
+<h2>🚀 Sobre m&iacute</h2>
 <p>
   Soy estudiante de DAW, interesado en todo lo relacionado con:
 </p>
 
 <ul>
   <li>Desarrollo Frontend y Backend</li>
-  <li>Buenas prácticas y código limpio</li>
-  <li>Aprendizaje continuo y creación de proyectos prácticos</li>
+  <li>Buenas pr&aacutecticas y c&oacutedigo limpio</li>
+  <li>Aprendizaje continuo y creaci&oacuten de proyectos pr&aacutecticos</li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Tecnologías y herramientas</h2>
+<h2>🛠️ Tecnolog&iacuteas y herramientas</h2>
 
 <ul>
   <li><strong>Frontend:</strong><br>
